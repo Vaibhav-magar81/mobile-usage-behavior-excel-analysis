@@ -16,6 +16,10 @@ The dataset includes user activity, screen time, and app usage patterns.
 - Usage patterns by age group
 - Daily mobile activity trends
 
+## Dashboard Preview
+<img width="1851" height="1027" alt="ProjectDashboard" src="https://github.com/user-attachments/assets/37049ba0-31c3-482b-a55a-eb4563addd28" />
+
+
 ## Files in Repository
 - Mobile_Usage_Behavior_Final_India.xlsx → Excel analysis file
 - ProjectDashboard.png → Screenshot of Excel dashboard
